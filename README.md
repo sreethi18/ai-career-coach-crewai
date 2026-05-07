@@ -48,6 +48,8 @@ This project uses multiple CrewAI agents working together:
 ## Landing Page
 
 <img width="888" height="738" alt="image" src="https://github.com/user-attachments/assets/89e763c5-bacf-4325-9985-aa932a674290" />
+<img width="938" height="757" alt="image" src="https://github.com/user-attachments/assets/377d5570-82e4-4c6d-b135-08b998dc6838" />
+
 
 
 ---
